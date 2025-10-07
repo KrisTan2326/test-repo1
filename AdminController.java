@@ -1,4 +1,4 @@
-package com.socio.controller;
+package com.socio.controller
 
 
 
@@ -44,6 +44,7 @@ public class AdminController {
     }
 
 }
+
 
 
 
