@@ -1,6 +1,7 @@
 package com.hashedin.huspark.controller;
 
 
+
 import com.hashedin.huspark.model.Users;
 import com.hashedin.huspark.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -25,4 +26,5 @@ public class AuthController {
     }
 
 }
+
 
