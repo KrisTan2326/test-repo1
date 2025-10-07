@@ -1,5 +1,6 @@
 package com.hashedin.huspark.service;
 
+
 import com.hashedin.huspark.model.Course;
 import com.hashedin.huspark.model.CourseProgress;
 import com.hashedin.huspark.model.Users;
