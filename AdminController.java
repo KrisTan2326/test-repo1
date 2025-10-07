@@ -1,4 +1,4 @@
-package com.socio.controll
+package com.socio.control
 
 
 import com.socio.model.User;
@@ -43,6 +43,7 @@ public class AdminController {
     }
 
 }
+
 
 
 
